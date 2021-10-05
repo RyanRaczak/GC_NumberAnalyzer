@@ -1,0 +1,14 @@
+C:\Users\RRaczak\source\repos\DevBuild\GC_NumberAnalyzer\GC_\bin\Debug\netcoreapp3.1\GC_.exe
+C:\Users\RRaczak\source\repos\DevBuild\GC_NumberAnalyzer\GC_\bin\Debug\netcoreapp3.1\GC_.deps.json
+C:\Users\RRaczak\source\repos\DevBuild\GC_NumberAnalyzer\GC_\bin\Debug\netcoreapp3.1\GC_.runtimeconfig.json
+C:\Users\RRaczak\source\repos\DevBuild\GC_NumberAnalyzer\GC_\bin\Debug\netcoreapp3.1\GC_.runtimeconfig.dev.json
+C:\Users\RRaczak\source\repos\DevBuild\GC_NumberAnalyzer\GC_\bin\Debug\netcoreapp3.1\GC_.dll
+C:\Users\RRaczak\source\repos\DevBuild\GC_NumberAnalyzer\GC_\bin\Debug\netcoreapp3.1\GC_.pdb
+C:\Users\RRaczak\source\repos\DevBuild\GC_NumberAnalyzer\GC_\obj\Debug\netcoreapp3.1\GC_.csproj.AssemblyReference.cache
+C:\Users\RRaczak\source\repos\DevBuild\GC_NumberAnalyzer\GC_\obj\Debug\netcoreapp3.1\GC_.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RRaczak\source\repos\DevBuild\GC_NumberAnalyzer\GC_\obj\Debug\netcoreapp3.1\GC_.AssemblyInfoInputs.cache
+C:\Users\RRaczak\source\repos\DevBuild\GC_NumberAnalyzer\GC_\obj\Debug\netcoreapp3.1\GC_.AssemblyInfo.cs
+C:\Users\RRaczak\source\repos\DevBuild\GC_NumberAnalyzer\GC_\obj\Debug\netcoreapp3.1\GC_.csproj.CoreCompileInputs.cache
+C:\Users\RRaczak\source\repos\DevBuild\GC_NumberAnalyzer\GC_\obj\Debug\netcoreapp3.1\GC_.dll
+C:\Users\RRaczak\source\repos\DevBuild\GC_NumberAnalyzer\GC_\obj\Debug\netcoreapp3.1\GC_.pdb
+C:\Users\RRaczak\source\repos\DevBuild\GC_NumberAnalyzer\GC_\obj\Debug\netcoreapp3.1\GC_.genruntimeconfig.cache
