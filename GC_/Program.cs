@@ -30,10 +30,17 @@ namespace GC_
                 while (true)
                 {
                     Console.Write("\nPlease enter an integer 1-100: ");
-                    userInput = int.Parse(Console.ReadLine());
-                    if (userInput > 0 && userInput <= 100)
+                    string sInput = Console.ReadLine();
+                    if (int.TryParse(sInput,out userInput))
                     {
-                        break;
+                        if (userInput > 0 && userInput <= 100)
+                        {
+                            break;
+                        }
+                        else
+                        {
+                            Console.WriteLine("\nInvalid Number...");
+                        }
                     }
                     else
                     {
@@ -77,7 +84,7 @@ namespace GC_
                     Console.WriteLine($"\n{userName}, the number you entered was {userInput}.\n" +
                         $"{userInput} is clearly a magical number and that's how you ended up here.");
                 }
-                
+
                 //Checks if user wants to continue & input is valid
                 while (true)
                 {
@@ -98,9 +105,8 @@ namespace GC_
                     {
                         Console.WriteLine("\nInput is invalid...");
                     }
-
                 }
-                
+
             }
         }
     }
